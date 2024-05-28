@@ -122,7 +122,7 @@ deactivate App
 ```
 
 ### Диаграмма деятельности
-![Диаграмма деятельности](UML/4.jpg)
+![Диаграмма деятельности](UML/4.png)
 скрипт PlantUML
 ```plantuml
 @startuml
